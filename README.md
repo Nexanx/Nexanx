@@ -15,10 +15,23 @@
 ---
 
 ## 🧠 About Me
-I am a third-year Applied Computer Science student at Lodz University of Technology, specializing in Database Engineering.  
-I am interested in Data Science, Machine Learning, backend development, and database systems.
-I enjoy working on projects that combine software engineering with data processing, machine learning models, and modern database technologies. I am also a member of a Data Science Club, where I continue developing my analytical and technical skills.
+```python
+class BartoszDanielak:
+    def __init__(self):
+        self.university   = "Łódź University of Technology"
+        self.degree       = "Applied Computer Science (Year 3)"
+        self.major        = "Database Engineering"
+        self.interests    = ["Data Science", "Machine Learning",
+                             "Backend Development", "Database Systems"]
+        self.community    = "Data Science Club @ TUL 📊"
+        self.learning     = ["Deep Learning", "MLOps", "Data Engineering"]
 
+    def say_hi(self):
+        print("Thanks for visiting my profile!")
+
+me = BartoszDanielak()
+me.say_hi()
+```
 
 ---
 
