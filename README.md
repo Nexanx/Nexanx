@@ -1,20 +1,13 @@
-<h1>Hi, I'm Bartosz 👋</h1>
-
 <div align="center">
+
+<h1>Hi, I'm Bartosz 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Applied+CS+Student+%40+%C5%81%C3%B3d%C5%BA+University+of+Technology;Specializing+in+Database+Engineering;Data+Science+%26+ML+Enthusiast;Building+data-driven+solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="mailto:bdanielak@wp.pl">
-  <img src="https://img.shields.io/badge/Email-bdanielak%40wp.pl-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/bartosz-danielak/">
-  <img src="https://img.shields.io/badge/LinkedIn-Bartosz%20Danielak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-
+[![Email](https://img.shields.io/badge/Email-bdanielak%40wp.pl-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bdanielak@wp.pl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bartosz%20Danielak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartosz-danielak/)
 </div>
 
 <br/>
@@ -68,26 +61,3 @@ I enjoy working on projects that combine software engineering with data processi
   &nbsp;
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nexanx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Nexanx&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6e6e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nexanx&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true" />
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=90&section=footer" />
