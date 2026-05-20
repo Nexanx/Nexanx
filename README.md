@@ -5,8 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="mailto:bdanielak@wp.pl">Email</a> •
-  <a href="https://www.linkedin.com/in/bartosz-danielak/">LinkedIn</a> •
+  <a href="mailto:bdanielak@wp.pl">
+    <img src="https://img.shields.io/badge/Email-bdanielak%40wp.pl-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/bartosz-danielak/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bartosz%20Danielak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -46,16 +50,3 @@ I enjoy working on projects that combine software engineering with data processi
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-
----
-
-## Contact
-
-📧 Email: [bdanielak@wp.pl](mailto:bdanielak@wp.pl)  
-💼 LinkedIn: [Bartosz Danielak](https://www.linkedin.com/in/bartosz-danielak/)  
-
----
-
-<p align="center">
-  Thanks for visiting my profile!
-</p>
