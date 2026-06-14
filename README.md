@@ -8,6 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Email-bdanielak%40wp.pl-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bdanielak@wp.pl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bartosz%20Danielak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartosz-danielak/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-nexanx-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nexanx)
 </div>
 
 <br/>
